@@ -74,19 +74,4 @@ To assess the security and privacy aspect of AI systems/pipelines, we can apply 
 
 By considering the CIA principle, we can evaluate and enhance the security and privacy aspects of AI systems and pipelines.
 
-## Deliverable
-The deliverable for this project is a Python notebook that contains the documentation of the entire process, including the final design, code, and answers to the provided questions.
 
-## Marking
-The project will be evaluated based on the following criteria:
-- Technical soundness of the final script (2 marks)
-- Clarity, organization, and soundness of the documentation (4 marks)
-- Clarity of the code (1.5 marks)
-- Accuracy of the answers to the questions (2 marks)
-- Performance (0.5 marks, based on baseline leaderboard performance)
-
-🎉 Feel free to include fun emojis and make the project enjoyable to grade! 🎉
-
-For additional resources, you can explore online platforms like Medium.com. If you encounter paywalled content, you can access it
-
- in incognito mode to read the articles without requiring tokens or credits.
